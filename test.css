@@ -1,0 +1,244 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container1{
+    background-color:rgba(4, 56, 115, 1) ;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+}  
+.nav-container{
+    display: flex;
+
+}
+#logo{
+    height: 34px;
+    width: 191px;
+}
+.box-container1{
+    display: flex;
+    padding-left: 220px;
+    padding-top: 140px;
+    padding-right: 220px;
+    padding-bottom: 140px;
+}
+.box1{
+    width: 656px;
+    height: 361px;
+   
+}
+.box2{
+    width: 824px;
+    height: 450px;
+   border: solid white;
+    position: relative;
+    bottom: 55px;
+    background-image: url(https://images.pexels.com/photos/12093287/pexels-photo-12093287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.box-container1 h1{
+    padding-bottom: 24px;
+    font-size: 48px;
+}
+.box-container1 p{
+    padding-bottom: 24px;
+}
+.box-container1 button{
+    background-color:rgba(79, 156, 249, 1); 
+    width: 159px;  
+    height: 23px;
+    border-radius: 8px;
+  
+}
+.box-container2{
+    
+    display: flex;
+    padding-left: 220px;
+    padding-top: 140px;
+    padding-right: 220px;
+    padding-bottom: 140px;
+    gap: 60px;
+}
+.box3{
+    width: 672px;
+    height: 411px;
+   
+}
+.box4{
+    width: 748px;
+    height: 547px;
+   border: solid white;
+    position: relative;
+    bottom: 55px;
+    background-image: url(https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.box-container2 h1{
+    padding-bottom: 24px;
+    font-size: 48px;
+}
+.box-container2 p{
+    padding-bottom: 24px;
+}
+.box-container2 button{
+    background-color:rgba(79, 156, 249, 1); 
+    width: 159px;  
+    height: 23px;
+    border-radius: 8px;
+  
+}
+.box-container3{
+    gap: 60px;
+    background-color: rgba(4, 56, 115, 1);
+    display: flex;
+    padding-left: 220px;
+    padding-top: 140px;
+    padding-right: 220px;
+    padding-bottom: 140px;
+}
+.box5{
+    width: 697px;
+    height: 294px;
+   
+}
+.box6{
+    width: 686px;
+    height: 294px;
+   border: solid white;
+    position: relative;
+    bottom: 55px;
+    background-image: url(https://images.pexels.com/photos/757889/pexels-photo-757889.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.box-container3 h1{
+    padding-bottom: 24px;
+    font-size: 48px;
+}
+.box-container3 p{
+    padding-bottom: 24px;
+}
+.box-container3 button{
+    background-color:rgba(79, 156, 249, 1); 
+    width: 159px;  
+    height: 23px;
+    border-radius: 8px;
+  
+}
+.container4{
+    padding-top: 140px;
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-bottom: 140px;
+    border-radius: 10px;
+  
+}
+
+.head-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+.head-container h1{
+    font-size: 73px;
+    font-weight: 700px;
+}
+.head-container h1{
+    font-size: 18px;
+    font-weight: 400px;
+}
+.box-container4{
+   padding-top: 50px;
+   display: flex;
+   justify-content: space-between;
+   gap: 24px;
+}
+.box7{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-top: 40px;
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    border: 1px rgba(255, 228, 146, 1);
+}
+.box7:hover{
+    background-color: rgba(4, 56, 115, 1);
+    transform: scaleY(1.1);
+   
+}
+.check1{
+    display: flex;
+    gap: 19px;
+}
+.check2{
+    display: flex;
+    gap: 19px;
+}
+.check3{
+    display: flex;
+    gap: 19px;
+}
+
+.check4{
+    display: flex;
+    gap: 19px;
+}
+.check5{
+    display: flex;
+    gap: 19px;
+}
+.check6{
+    display: flex;
+    gap: 19px;
+}
+.box-container4 img{
+    height: 18.01px;
+    width: 18.01px;
+    border: 2px rgba(33, 37, 41, 1);
+}
+.box-container4 button{
+    width: 166px;
+    height: 51px;
+    border: 1px rgba(255, 228, 146, 1);
+    border-radius: 8px;
+    
+}
+.box8{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-top: 40px;
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    border: 1px rgba(255, 228, 146, 1);
+}
+.box8:hover{
+    background-color: rgba(4, 56, 115, 1);
+    transform: scaleY(1.1);
+   
+}
+.box9{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-top: 40px;
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    border: 1px rgba(255, 228, 146, 1);
+}
+.box9:hover{
+    background-color: rgba(4, 56, 115, 1);
+    transform: scaleY(1.1);
+   
+} 
+
+
